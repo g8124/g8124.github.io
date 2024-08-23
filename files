@@ -1,0 +1,7 @@
+在Github上创建一个Repository，命名为“username.github.io”
+在Repository中创建一个新的文件夹，命名为“files”
+将您需要分享的文件上传至“files”文件夹
+打开存储库的“设置”选项卡
+在“Options”中找到“GitHub Pages”，并选择“masterbranch”为源
+点击“保存”保存设置
+现在，你可以通过“https://username.github.io/files/filename”访问该文件的直链了，其中，“username”为你的Github登录名，“files”为文件夹名称，“filename” “是你上传的文件名
